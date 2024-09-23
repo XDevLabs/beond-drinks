@@ -1,6 +1,6 @@
 development:
-  password:
-  theme_id: ""
-  store:
+  password: shptka_8cd536950bcf70472ca1db0795f9b429
+  theme_id: "172034588996"
+  store: beond-drink.myshopify.com
   ignores:
     - themekit_ignores
