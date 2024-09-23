@@ -1,0 +1,6 @@
+assets/scss/
+.git/
+node_modules/
+/.json
+.DS_Store
+*.bak
